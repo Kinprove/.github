@@ -1,5 +1,3 @@
-<a href="https://kinprove.io"><img src="https://raw.githubusercontent.com/Kinprove/.github/main/profile/logo.svg" alt="Kinprove" width="72" height="72"></a>
-
 # Kinprove
 
 **Let evidence reveal biological connections.**
